@@ -1,10 +1,14 @@
 [
   {
     "email": "alice@example.com",
-    "password": "3bc51062973c458d5d6f78f38de0b2b35a960fd6f6b5eaf1b8e9c3f0e99d1116"
+    "password": "ZkBq1FjD3s4bX4vGZ2z8nA=="
   },
   {
     "email": "bob@example.com",
-    "password": "cd9c4d1d7b4eaa204bc3cf8780a4ebbb6d02d4eb38a3c0bfc07d6a1b5f7b7c12"
+    "password": "nR7d3jK6P0vY8kWfYhTt9Q=="
+  },
+  {
+    "email": "carol@example.com",
+    "password": "Qp2sR8vY4jK5lZ1nF9hT0g=="
   }
 ]
