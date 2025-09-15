@@ -2,16 +2,16 @@
   {
     "email": "alice@example.com",
     "password": "password123",
-    "hash": "ef92b778bafe771e89245b89ecbc1b4b7f5b2c8e36a0c8a730f9b206ffed3a6f"
+    "hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
   },
   {
     "email": "bob@example.com",
     "password": "mysecret456",
-    "hash": "b2f5ff47436671b6e533d8dc3614845d1b1f7d020f2d646e2e4a9e0f7f879fde"
+    "hash": "e08d6dd3aaf66fbc6063bb5b84bd4135c49359f1529fa8d82788039c5bda2e1d"
   },
   {
     "email": "carol@example.com",
     "password": "letmein789",
-    "hash": "9c1185a5c5e9fc54612808977ee8f548b2258d31e9c77b0e5f042c02b80b2e0b"
+    "hash": "60dff37752c1055b32d100ab3d8d5cd0578d3dd582fb390660e183c884fac62a"
   }
 ]
